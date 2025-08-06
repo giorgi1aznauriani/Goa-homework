@@ -4,7 +4,7 @@ name = "Giorgi"
 name_1 = input("Enter your name: ")
 
 if name == name_1:
-    print("Our names are similar!")
+    print("our names are similar")
 
 else :
-    print("We have different names")
+    print("we have different names")
