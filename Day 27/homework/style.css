@@ -1,0 +1,27 @@
+ body {
+     background-color: darkseagreen;
+ }
+
+ h1 {
+     color: aqua;
+     background-color: blueviolet;
+     font-size: 30px;
+ }
+
+ h2 {
+     color: goldenrod;
+     background-color: darkblue;
+     font-size: 25px;
+ }
+
+ button {
+     color: white;
+     background-color: black;
+     font-size: 20px;
+ }
+
+ p {
+     color: darkkhaki;
+     background-color: darkgreen;
+     font-size: 25px;
+ }
