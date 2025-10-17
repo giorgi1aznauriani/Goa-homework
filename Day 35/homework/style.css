@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+    color: #ac3434;
+    text-align: center;
+}
+
+h1 {
+    color: #f0f0f0;
+}
+
+p {
+    max-width: 600px;
+}
+
+img {
+    border-radius: 20px;
+}

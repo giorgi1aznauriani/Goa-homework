@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: #f1f1f1f0;
+}
+
+
+.forms {
+    background-color: white;
+    width: 150pxpx;
+    border-radius: 15px;
+}
+
+
+
+
+.forms h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 20px;
+    border-radius: 10px;
+}
+
+button {
+    width: 20px;
+    background-color: #3498db;
+    color: green;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
