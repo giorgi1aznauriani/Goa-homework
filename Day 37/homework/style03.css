@@ -1,0 +1,10 @@
+#container {
+    /* padding კონტეინერის შიდა სივრცე. */
+    padding: 20px;
+    /* border არის საზღვარი */
+    border: 5px solid black;
+    /* margin - გარე სივრცე */
+    margin: 30px;
+}
+
+/* CSS Box Model  თუ როგორ მუშაობს content padding border და margin როდესაც width and height მნიშვნელობა ეს   content ნაწილია. padding, border და margin გაბლენას ახდენენ ელემენტის ბოლო ზომაზე */
