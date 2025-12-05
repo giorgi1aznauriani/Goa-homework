@@ -1,9 +1,9 @@
 #container {
-    /* padding კონტეინერის შიდა სივრცე. */
+    /* padding=კონტეინერის შიდა სივრცე*/
     padding: 20px;
     /* border არის საზღვარი */
     border: 5px solid black;
-    /* margin - გარე სივრცე */
+    /* margin=გარე სივრცე*/
     margin: 30px;
 }
 

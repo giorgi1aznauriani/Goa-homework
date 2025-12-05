@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background: #2c5364;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.game {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+
+.left {
+    width: 40%;
+}
+
+.code-box {
+    background: #12343b;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-family: monospace;
+}
+
+.right {
+    width: 60%;
+}
+
+.pond {
+    background: #184e63;
+    height: 250px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+}
+
+.frog {
+    width: 120px;
+}
