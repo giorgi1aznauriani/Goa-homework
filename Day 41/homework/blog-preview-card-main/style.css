@@ -20,18 +20,15 @@ body {
     border-radius: 12px;
 }
 
-.tag {
-    display: inline-block;
+.button {
     background-color: #ffdc73;
+    border: none;
     padding: 10px;
     margin-top: 14px;
     border-radius: 6px;
-    font-size: 14px;
-    font-weight: bold;
 }
 
-.date {
-    color: #555;
+.data {
     margin: 6px 0 10px;
     font-size: 14px;
 }
@@ -39,20 +36,25 @@ body {
 .title {
     margin: 0;
     font-size: 20px;
-    font-weight: 700;
 }
 
-.subtitle {
+.child {
     color: #666;
     font-size: 14px;
     margin-top: 10px;
 }
 
+.author{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
 .avatar {
-    width: 28px;
-    height: 28px;
+    width: 32px;
+    height: 32px;
     background: #ddd;
     border-radius: 50%;
     margin-right: 10px;
-}
 
+}
