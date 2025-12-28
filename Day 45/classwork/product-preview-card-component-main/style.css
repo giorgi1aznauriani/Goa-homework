@@ -1,0 +1,73 @@
+body {
+    background-color: #f5efe9;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.box {
+    display: flex;
+    background: white;
+    border-radius: 10px;
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.photo img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.content {
+    padding: 20px 30px;
+}
+
+.type {
+    font-size: 12px;
+    color: #888;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 20px;
+    margin: 0 0 10px 0;
+    font-weight: bold;
+    color: #222;
+}
+
+.information {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #196947;
+    margin-bottom: 10px;
+}
+
+.old {
+    font-size: 14px;
+    color: #aaa;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+
+.btn {
+    background-color: #196947;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background-color: #145533;
+}
